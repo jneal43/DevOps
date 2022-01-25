@@ -1,7 +1,8 @@
 {
   "dependencies": {
-    "jest": "^27.4.7"
-    ,"mocha": "^8.1.2"
+    "jest": "^27.4.7",
+    "mocha": "^8.1.2",
+    "node-fetch": "^3.2.0"
   },
   "scripts": {
     "test": "mocha"
